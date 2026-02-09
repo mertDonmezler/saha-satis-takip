@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Excel temp files
+~$*.xlsx
+
+# Yedek dosyalar
+*_YEDEK.xlsx
+
+# Log
+*.log
+
+# Output (script tarafindan olusturulur)
+MASTER_DATA.xlsx
+MASTER_DATA_TEMP_*.xlsx
+
+# Extracted files
+files_extracted/
+
+# Claude Code session data
+.claude/
