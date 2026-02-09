@@ -2,6 +2,9 @@
 __pycache__/
 *.pyc
 
+# Excel data files (kisisel veri icerirler)
+*.xlsx
+
 # Excel temp files
 ~$*.xlsx
 
